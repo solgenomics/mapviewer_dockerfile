@@ -1,0 +1,5 @@
+# set the correct values for your install
+
+name jscview
+dbhost https://brapihost
+host http://localhost
